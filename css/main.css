@@ -371,3 +371,12 @@ ul.posts p {
 p {
 		text-align: justify;
 }
+
+.home_links a {
+  color: #CE2323;
+  text-decoration: none;
+}
+
+.home_links  a:hover {
+  text-decoration: underline;
+}
