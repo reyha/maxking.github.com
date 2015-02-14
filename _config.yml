@@ -4,8 +4,8 @@ tagline: 'Do or do not, there is no try. - Yoda'
 sidebar_image: /images/debian.jpg
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 #baseurl: / # the subpath of your site, e.g. /blog/
 permalink: pretty
-featured_image: /images/debian.jpb
+featured_image: /images/debian.jpg
